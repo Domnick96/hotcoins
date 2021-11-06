@@ -1,0 +1,55 @@
+Hotcoins - IP addresses
+
+100--Divyesh Database-1
+101
+102--- Gigi Proxy 
+103--- Gigi Production Server
+104--- Divyesh Ubuntu 
+105--- Gigi QA Server
+106--- Gigi Dev Server
+107--- Bansari Ubuntu 
+108--- Gigi hotstandby
+109
+110
+111--- Mayur Ubuntu 
+112
+113
+114
+115
+116
+117
+118
+119
+120
+121
+122
+123
+124
+125
+126
+127
+128
+129
+130
+.
+.
+140
+.
+.       RESERVED FOR HOST MACHINES
+. 	
+200
+
+
+Ubuntu Packages – Commands
+Sudo -s
+Apt-get upgrade
+Apt-get update
+Apt-get install vim
+Apt-get install php
+Apt-get install php-amqp
+Apt-get install aptamritude
+Apt-get install rabbitmq-server
+Rabbitmq-plugins enable rabbitmq_management
+Apt-get install apache2
+Apt-get install mysql-server
+Apt-get install php-mysql
